@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a dedicated student pursuing a degree in Softw
 
 ## 🎓 About Me
 
-As a software engineering student, I've learned to tackle problems methodically, breaking down complex challenges into manageable tasks. My dedication to coding extends beyond the classroom—I love to experiment with new technologies, build functional applications, and contribute to the community. I'm on a continuous path of growth and learning, excited about the endless possibilities in the tech world.
+I'm studying software engineering and I always try to use what I learn in my daily life. Besides hitting the books, I work as a barista to pay for school, and it's been a huge help. I'm all about working hard and doing my best in school. But it's not just about me—I really want to use what I do to help others down the line.
 
 ## 🚀 My Work
 
