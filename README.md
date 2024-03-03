@@ -1,6 +1,6 @@
 # Hello, I'm Filippos Papageorgiou! 👋
 
-Welcome to my GitHub profile! I'm a dedicated student pursuing a degree in Software Engineering. Coding is not just a part of my studies; it's my passion. Beyond the university curriculum, I immerse myself in building full-stack applications, contributing to open-source projects, and constantly exploring new technologies. My repository is a reflection of my journey, showcasing both my academic endeavors and personal projects.
+Welcome to my GitHub profile! I'm a dedicated student pursuing a degree in Software Engineering.I immerse myself in building full-stack applications, contributing to open-source projects, and constantly exploring new technologies. My repository is a reflection of my journey, showcasing both my academic endeavors and personal projects.
 
 ## 🎓 About Me
 
