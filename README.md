@@ -27,5 +27,10 @@ I am committed to continuous learning and improvement. The tech industry is ever
 ## 📈 Stats
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filippospapageorgiou&show_icons=true&theme=radical)
 
+👨‍💻 Programming Languages
+Here are the programming languages I use the most in my projects:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Filippospapageorgiou&layout=compact&theme=radical)
+
 
 Thank you for visiting my profile! Your support and interest motivate me to push boundaries and strive for excellence. Let's connect and grow together! 💡🌟
