@@ -24,6 +24,5 @@ Here are the programming languages I use the most in my projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Filippospapageorgiou&layout=compact&theme=radical)
 
-![image](https://github.com/Filippospapageorgiou/Filippospapageorgiou/assets/87243873/a2fc4b8c-b2d2-447e-a144-2d6b24552933)
 
 
