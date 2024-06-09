@@ -16,8 +16,6 @@ Here, you'll find a variety of projects that I've poured my heart and soul into:
 - **Email**: [filpap9@gmail.com](mailto:filpap9@gmail.com)
 - **LinkedIn**: [Filipe Papageorgiou](https://www.linkedin.com/in/filipe-papageorgiou-55491b27b/)
 
-## 📈 Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filippospapageorgiou&show_icons=true&theme=radical)
 
 👨‍💻 Programming Languages
 Here are the programming languages I use the most in my projects:
