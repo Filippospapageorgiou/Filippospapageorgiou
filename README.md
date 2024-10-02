@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a dedicated student pursuing a degree in Softw
 Here, you'll find a variety of projects that I've poured my heart and soul into:
 
 - **University Assignments Repository**: A comprehensive collection of my academic work, highlighting my progression and the diverse set of skills I've acquired.
-- **Full Stack Applications**: Practical applications that showcase my ability to handle both front-end and back-end development, bringing ideas to life.
 - **And much more**: Stay tuned as I continue to expand my repository with more innovative and challenging projects.
 
 ## 📫 How to Reach Me
@@ -17,10 +16,6 @@ Here, you'll find a variety of projects that I've poured my heart and soul into:
 - **LinkedIn**: [Filipe Papageorgiou](https://www.linkedin.com/in/filipe-papageorgiou-55491b27b/)
 
 
-👨‍💻 Programming Languages
-Here are the programming languages I use the most in my projects:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Filippospapageorgiou&layout=compact&theme=radical)
 
 
 
