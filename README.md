@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated student pursuing a degree in Softw
 Here, you'll find a variety of projects:
 
 - **University Assignments Repository**: A comprehensive collection of my academic work, highlighting my progression and the diverse set of skills I've acquired.
-- **And much more**:  projects.
+- **Web Services APIS and fullstack**:  projects.
 
 ## 📫 How to Reach Me
 
